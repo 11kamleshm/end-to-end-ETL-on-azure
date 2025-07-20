@@ -1,3 +1,4 @@
+# ETL-Azure
 # End-to-End-Azure-Data-Engineering-Project
 End-to-End Azure Data Engineering Project using ADF, Databricks, Synapse, and Power BI.
 
@@ -10,11 +11,6 @@ End-to-End Azure Data Engineering Project using ADF, Databricks, Synapse, and Po
 - [Prerequisites](#prerequisites)
 - [Setup Instructions](#setup-instructions)
 - [Project Structure](#project-structure)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
-- [Contact](#contact)
 
 ## Overview
 
@@ -215,3 +211,4 @@ Follow these steps to set up the project environment:
 
 2. **Publish Dashboards:**
    - Publish your Power BI reports to the Power BI service for sharing with stakeholders.
+
